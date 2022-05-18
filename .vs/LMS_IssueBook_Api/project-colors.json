@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a47a61c-4be8-44f7-807e-05c4b04d2cc9": {
+      "ProjectGuid": "5a47a61c-4be8-44f7-807e-05c4b04d2cc9",
+      "DisplayName": "LMS_IssueBook_Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
